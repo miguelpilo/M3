@@ -7,7 +7,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-name="Radio Comercial" tvg-logo="https://play-lh.googleusercontent.com/SCFCFhQUvcgwzg58XUBY9b6TC0qEvITwrfMPqCocvniuhgho3N91iTgIFL2ik1O4-Q",Radio Comercial
 https://stream-icy.bauermedia.pt/comercial.aac
-#EXTINF:-1 group-title="Radio" tvg-name="RadioComercial Rock" tvg-logo="https://radiocomercial.pt/upload/R/radio-rock.png",Comrcial Rock
+#EXTINF:-1 group-title="Radio" tvg-name="Comrcial Rock" tvg-logo="https://radiocomercial.pt/upload/R/radio-rock.png"
 https://stream-icy.bauermedia.pt/rcrock.aac
 #EXTINF:-1 group-title="Radio" tvg-name="RadioComercial 90" tvg-logo="https://radiocomercial.pt/upload/R/radio-90.png",Rádio Comercial 90's
 https://stream-icy.bauermedia.pt/rcbest90.aac

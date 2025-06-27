@@ -3,7 +3,7 @@
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 #EXTINF:-1 group-title="TV" tvg-id="babyshark" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/370b87dfaa995f7745fe9073f33b422a336edbb4e0e28fec6afa2a640af2c140.png",Baby Shark ROKU
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="babyshark" tvg-logo="https://static.wikia.nocookie.net/pinkfong/images/3/3a/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4%EB%9A%9C%EB%A3%A8%EB%A3%A8%EB%9A%9C%EB%A3%A8-02.png/revision/latest?cb=20230211071137",Baby Shark Rakuten
+#EXTINF:-1 group-title="TV" tvg-id="babyshark" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg/revision/latest/scale-to-width-down/250?cb=20210520140825",Baby Shark Rakuten
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Comercial"
 https://stream-icy.bauermedia.pt/comercial.aac
